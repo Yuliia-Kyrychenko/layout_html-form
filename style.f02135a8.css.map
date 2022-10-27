@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,gBACE,eACF,CAEA,eACE,eACF,CAEA,MACE,oBACF","file":"style.f02135a8.css","sourceRoot":"..\\src","sourcesContent":[".formFieldStyle {\n  margin-top: 10px;\n}\n\n.fieldset-form {\n  margin-top: 20px;\n}\n\nlabel {\n  display: inline-block;\n}\n"]}
